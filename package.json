@@ -48,14 +48,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Dracula",
+                "label": "Aping",
                 "uiTheme": "vs-dark",
-                "path": "./theme/dracula.json"
+                "path": "./theme/aping.json"
             },
             {
-                "label": "Dracula Soft",
+                "label": "Aping Soft",
                 "uiTheme": "vs-dark",
-                "path": "./theme/dracula-soft.json"
+                "path": "./theme/aping-soft.json"
             }
         ]
     },

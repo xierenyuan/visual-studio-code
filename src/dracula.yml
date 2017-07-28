@@ -1,20 +1,20 @@
-name: Dracula
-author: Zeno Rocha
+name: APing
+author: ren hong
 maintainers:
-  - Derek P Sifford <dereksifford@gmail.com>
-semanticClass: theme.dracula
+  - -.- renhong
+semanticClass: theme.aping
 dracula:
   base:
-    - &BG '#282A36'
-    - &FG '#F8F8F2'
+    - &BG '#3F3F3F'
+    - &FG '#DCDCDC'
     - &SELECTION '#44475A'
   ansi:
     - &BLACK   '#4D4D4D'
     - &RED     '#FF5555'
     - &GREEN   '#50FA7B'
     - &YELLOW  '#F1FA8C'
-    - &PURPLE  '#BD93F9'
-    - &PINK    '#FF79C6'
+    - &PURPLE  '#CC9393'
+    - &PINK    '#E3CEAB'
     - &CYAN    '#8BE9FD'
     - &COLOR7  '#BFBFBF'
     - &COLOR8  '#575757'
